@@ -1,0 +1,28 @@
+{
+  "id": "./index.html",
+  "name": "La Carnicería | Menú digital",
+  "short_name": "La Carnicería",
+  "description": "Menú digital de La Carnicería. Cortes frescos y pedidos a domicilio.",
+  "lang": "es-CO",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#280307",
+  "theme_color": "#a80e16",
+  "categories": ["shopping", "food"],
+  "icons": [
+    {
+      "src": "assets/img/pwa-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/img/pwa-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

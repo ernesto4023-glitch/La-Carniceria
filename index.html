@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#a80e16">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="La Carnicería">
+  <meta name="description" content="Menú digital de La Carnicería. Cortes frescos y pedidos a domicilio.">
+  <title>La Carnicería | Menú digital</title>
+  <link rel="icon" href="assets/img/logo.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="assets/img/pwa-192.png">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="stylesheet" href="css/styles.css">
+  <script src="js/app.js" defer></script>
+  <script src="js/pwa.js" defer></script>
+</head>
+<body>
+  <div class="desktop-backdrop" aria-hidden="true"></div>
+  <div class="app-shell" id="app">
+    <main class="screen" id="screen" aria-live="polite"></main>
+    <button class="pwa-install" id="installAppBtn" type="button" aria-label="Instalar La Carnicería" hidden>
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3v12M7 10l5 5 5-5M4 17v3h16v-3"/></svg>
+      <span>Instalar app</span>
+    </button>
+    <nav class="bottom-nav" id="bottomNav" aria-label="Navegación principal"></nav>
+    <div class="toast" id="toast" role="status" aria-live="polite"></div>
+    <div class="modal-root" id="modalRoot"></div>
+  </div>
+</body>
+</html>

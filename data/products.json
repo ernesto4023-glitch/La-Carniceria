@@ -1,0 +1,123 @@
+[
+  {
+    "id": "bistec-res",
+    "name": "Bistec de Res",
+    "category": "Res",
+    "pricePerKg": 18000,
+    "image": "assets/img/bistec.jpg",
+    "description": "Corte tradicional, ideal para asar o preparar a la plancha.",
+    "detail": "Un corte versátil para las comidas de todos los días. Se entrega fresco y listo para preparar.",
+    "badge": "Más vendido",
+    "featured": true
+  },
+  {
+    "id": "costilla-res",
+    "name": "Costilla de Res",
+    "category": "Res",
+    "pricePerKg": 15000,
+    "image": "assets/img/costilla.jpg",
+    "description": "Perfecta para sopas, sudados y parrilladas.",
+    "detail": "Un corte con sabor intenso, ideal para cocinar lentamente o compartir en una parrillada.",
+    "badge": "Favorito",
+    "featured": true
+  },
+  {
+    "id": "filete-res",
+    "name": "Filete de Res",
+    "category": "Res",
+    "pricePerKg": 28000,
+    "image": "assets/img/filete.jpg",
+    "description": "Corte premium, suave y lleno de sabor.",
+    "detail": "Ideal para una ocasión especial. Recomendado para asar o sellar en sartén.",
+    "badge": "Premium",
+    "featured": true
+  },
+  {
+    "id": "molida-res",
+    "name": "Carne Molida de Res",
+    "category": "Res",
+    "pricePerKg": 14000,
+    "image": "assets/img/molida.jpg",
+    "description": "Práctica para hamburguesas, albóndigas y recetas caseras.",
+    "detail": "Una opción rendidora y versátil para preparar recetas familiares.",
+    "badge": "Rendidora",
+    "featured": true
+  },
+  {
+    "id": "carne-sudar",
+    "name": "Carne para Sudar",
+    "category": "Res",
+    "pricePerKg": 17000,
+    "image": "assets/img/bistec.jpg",
+    "description": "Cortes seleccionados para guisos y sudados.",
+    "detail": "Cortes preparados para cocinar a fuego medio y lograr una textura tierna.",
+    "badge": "Para el hogar",
+    "featured": false
+  },
+  {
+    "id": "chuleta-cerdo",
+    "name": "Chuleta de Cerdo",
+    "category": "Cerdo",
+    "pricePerKg": 16000,
+    "image": "assets/img/cerdo.svg",
+    "description": "Jugosa y perfecta para la plancha o la parrilla.",
+    "detail": "Chuletas de cerdo para preparar a la plancha, al horno o a la parrilla.",
+    "badge": "Recomendada",
+    "featured": true
+  },
+  {
+    "id": "lomo-cerdo",
+    "name": "Lomo de Cerdo",
+    "category": "Cerdo",
+    "pricePerKg": 21000,
+    "image": "assets/img/cerdo.svg",
+    "description": "Corte magro, ideal para hornear o saltear.",
+    "detail": "Una alternativa magra y suave para preparar en medallones o en porciones.",
+    "badge": "Corte magro",
+    "featured": false
+  },
+  {
+    "id": "pechuga-pollo",
+    "name": "Pechuga de Pollo",
+    "category": "Pollo",
+    "pricePerKg": 14000,
+    "image": "assets/img/pollo.svg",
+    "description": "Fresca, versátil y fácil de preparar.",
+    "detail": "Ideal para plancha, horno, ensaladas o recetas de todos los días.",
+    "badge": "Versátil",
+    "featured": true
+  },
+  {
+    "id": "muslo-pollo",
+    "name": "Muslo de Pollo",
+    "category": "Pollo",
+    "pricePerKg": 11000,
+    "image": "assets/img/pollo.svg",
+    "description": "Una opción jugosa para horno o sudado.",
+    "detail": "Perfecto para preparar al horno, guisado o en un sudado casero.",
+    "badge": "Buen precio",
+    "featured": false
+  },
+  {
+    "id": "chorizo-artesanal",
+    "name": "Chorizo Artesanal",
+    "category": "Embutidos",
+    "pricePerKg": 19000,
+    "image": "assets/img/embutidos.svg",
+    "description": "Ideal para asados, desayunos y reuniones.",
+    "detail": "Chorizos con sabor tradicional para acompañar tus comidas o compartir en familia.",
+    "badge": "Para compartir",
+    "featured": true
+  },
+  {
+    "id": "salchicha-parrillera",
+    "name": "Salchicha Parrillera",
+    "category": "Embutidos",
+    "pricePerKg": 17000,
+    "image": "assets/img/embutidos.svg",
+    "description": "Perfecta para parrilladas y comidas rápidas.",
+    "detail": "Una opción práctica para asar y acompañar con tus salsas favoritas.",
+    "badge": "Parrilla",
+    "featured": false
+  }
+]

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 500">
+ <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#43251b"/><stop offset="1" stop-color="#120b09"/></linearGradient><linearGradient id="sa" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ff9b75"/><stop offset=".5" stop-color="#d74935"/><stop offset="1" stop-color="#85231f"/></linearGradient><filter id="shadow"><feGaussianBlur stdDeviation="8"/></filter></defs>
+ <rect width="600" height="500" fill="url(#bg)"/><path d="M0 85H600M0 180H600M0 275H600M0 370H600" stroke="#9a6948" stroke-opacity=".16" stroke-width="5"/>
+ <ellipse cx="300" cy="300" rx="210" ry="100" fill="#000" opacity=".5" filter="url(#shadow)"/>
+ <g fill="none" stroke="url(#sa)" stroke-width="38" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M165 205c-24 41 8 78 49 63 37-14 37-53 72-55 38-2 47 35 17 58-24 18-59 3-57-24"/>
+  <path d="M270 185c-12 40 24 65 55 43 27-19 48-9 49 13 1 25-25 37-49 23"/>
+  <path d="M365 220c-15 31 5 59 35 49 28-9 31-40 11-55"/>
+ </g>
+ <g fill="none" stroke="#ffc2a5" stroke-width="4" opacity=".7"><path d="M155 201l-12 8M180 250l-13 8M262 182l-13 4M314 199l-8 10M366 217l-12 8M398 254l-9 7"/></g>
+ <path d="M440 110c19-15 37-13 50 1M458 132c17-10 33-7 44 6M106 377c18-15 38-13 50 1" fill="none" stroke="#7b8a39" stroke-width="9" stroke-linecap="round"/>
+ <circle cx="476" cy="98" r="5" fill="#d7b25e"/><circle cx="493" cy="117" r="4" fill="#d7b25e"/>
+</svg>
